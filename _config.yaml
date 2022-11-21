@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Tian Lab @Guangzhou Laboratory
+description: this is description
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,10 @@ baseurl: /TianLab
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: tian_luyi@gzlab.ac.cn
+  google-scholar: 6G0fn6QAAAAJ
+  github: https://github.com/LuyiTian
+  twitter: Luyi_T
 
 ### advanced settings
 
