@@ -6,7 +6,7 @@ description: this is description
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /TianLab
+baseurl: ""
 
 # site social media and other links
 links:
