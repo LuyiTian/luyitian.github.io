@@ -44,10 +44,10 @@
 
 - id: 10.1371/journal.pcbi.1006361
   repo: LuyiTian/scPipe
-  extra-links:
-    - type: Package
-      link: https://www.bioconductor.org/packages/release/bioc/html/scPipe.html
   tags:
     - scRNAseq
     - Preprocessing
     - Bioconductor
+  extra-links:
+    - type: Package
+      link: https://www.bioconductor.org/packages/release/bioc/html/scPipe.html
