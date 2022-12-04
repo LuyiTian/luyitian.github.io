@@ -4,25 +4,9 @@ title: Home
 
 # Contextual genomics and cellular dynamics
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Spatial transcriptomics puts single cells into their context, unlocks many applications. However, transcriptomic snapshots only reflect a small portion of the genomic activities of a cell. Other genomic features such as mutations, chromatin states and epigenetic features are critical to understand the biology. On top of the modalities, growing tools that trace the temporal dynamics at different time scales, from lineage-tracing in days to RNA synthesis in hours, have been developed on single-cell genomics. Our lab stands at the front of this wave of revolution that moves genomics from single cell to tissues. As a ‘humid’ lib, we are working on both computational biology and experimental biology. We develop spatial multi-omics and spatial temporal sequencing technologies, design new computational algorithms that help integrate single-cell and spatial multi-omics data into atlas. 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html full=true %}
@@ -34,8 +18,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop novel spatial sequencing technologies and new computation tools to analysis spatial data
 
 {%
   include link.html
@@ -62,7 +45,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Open Science"
   icon="fas fa-arrow-right"
   flip=true
 %}
