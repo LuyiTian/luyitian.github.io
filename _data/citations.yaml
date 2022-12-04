@@ -53,3 +53,194 @@
   - Review
   - Spatial transcriptomics
   _cache: aad6d7459d1b9ff8472f35a078801285d9ae703e2af689812e3fb3b192c45ece
+- id: 10.1038/s41392-021-00753-7
+  title: Single-cell immune profiling reveals distinct immune response in asymptomatic
+    COVID-19 patients
+  authors:
+  - Xiang-Na Zhao
+  - Yue You
+  - Xiao-Ming Cui
+  - Hui-Xia Gao
+  - Guo-Lin Wang
+  - Sheng-Bo Zhang
+  - Lin Yao
+  - Li-Jun Duan
+  - Ka-Li Zhu
+  - Yu-Ling Wang
+  - Li Li
+  - Jian-Hua Lu
+  - Hai-Bin Wang
+  - Jing-Fang Fan
+  - Huan-Wei Zheng
+  - Er-Hei Dai
+  - Lu-Yi Tian
+  - Mai-Juan Ma
+  publisher: Signal Transduction and Targeted Therapy
+  date: '2021-09-16'
+  link: https://doi.org/grc8jq
+  tags:
+  - SARS-CoV-2
+  - scRNAseq
+  _cache: 54cccfdcadd67f8db247039e123c91cb5115e2a6c77e01f96d35de052d059cd8
+- id: 10.1186/s13059-021-02525-6
+  title: Comprehensive characterization of single-cell full-length isoforms in human
+    and mouse with long-read sequencing
+  authors:
+  - Luyi Tian
+  - Jafar S. Jabbari
+  - Rachel Thijssen
+  - Quentin Gouil
+  - Shanika L. Amarasinghe
+  - Oliver Voogd
+  - Hasaru Kariyawasam
+  - Mei R. M. Du
+  - Jakob Schuster
+  - Changqing Wang
+  - Shian Su
+  - Xueyi Dong
+  - Charity W. Law
+  - Alexis Lucattini
+  - Yair David Joseph Prawer
+  - "Coralina Collar-Fern\xE1ndez"
+  - Jin D. Chung
+  - Timur Naim
+  - Audrey Chan
+  - Chi Hai Ly
+  - Gordon S. Lynch
+  - James G. Ryall
+  - Casey J. A. Anttila
+  - Hongke Peng
+  - Mary Ann Anderson
+  - Christoffer Flensburg
+  - Ian Majewski
+  - Andrew W. Roberts
+  - David C. S. Huang
+  - Michael B. Clark
+  - Matthew E. Ritchie
+  publisher: Genome Biology
+  date: '2021-11-11'
+  link: https://doi.org/grc8jr
+  repo: LuyiTian/FLAMES
+  tags:
+  - Nanopore sequencing
+  - Alternative splicing
+  _cache: 7e2f03029b3a20cd54be7d891a443fc7d3e903ff13281d5ea75f3b72f35d4a3d
+- id: 10.1016/j.immuni.2021.03.012
+  title: Clonal multi-omics reveals Bcor as a negative regulator of emergency dendritic
+    cell development
+  authors:
+  - Luyi Tian
+  - Sara Tomei
+  - Jaring Schreuder
+  - Tom S. Weber
+  - Daniela Amann-Zalcenstein
+  - Dawn S. Lin
+  - Jessica Tran
+  - Cindy Audiger
+  - Mathew Chu
+  - Andrew Jarratt
+  - Tracy Willson
+  - Adrienne Hilton
+  - Ee Shan Pang
+  - Timothy Patton
+  - Madison Kelly
+  - Shian Su
+  - Quentin Gouil
+  - Peter Diakumis
+  - Melanie Bahlo
+  - Toby Sargeant
+  - Lev M. Kats
+  - Philip D. Hodgkin
+  - "Meredith O\u2019Keeffe"
+  - Ashley P. Ng
+  - Matthew E. Ritchie
+  - Shalin H. Naik
+  publisher: Immunity
+  date: '2021-06-01'
+  link: https://doi.org/gqmczc
+  tags:
+  - Immunology
+  - scRNAseq
+  - Lineage tracing
+  _cache: e2508911523ae490646619d60ca50a957f5c58cc87fa7ae09763c35a0f204034
+- id: 10.1038/s41590-020-0799-x
+  title: A new lymphoid-primed progenitor marked by Dach1 downregulation identified
+    with single cell multi-omics
+  authors:
+  - Daniela Amann-Zalcenstein
+  - Luyi Tian
+  - Jaring Schreuder
+  - Sara Tomei
+  - Dawn S. Lin
+  - Kirsten A. Fairfax
+  - Jessica E. Bolden
+  - Mark D. McKenzie
+  - Andrew Jarratt
+  - Adrienne Hilton
+  - Jacob T. Jackson
+  - Ladina Di Rago
+  - Matthew P. McCormack
+  - Carolyn A. de Graaf
+  - Olivia Stonehouse
+  - Samir Taoudi
+  - Warren S. Alexander
+  - Stephen L. Nutt
+  - Matthew E. Ritchie
+  - Ashley P. Ng
+  - Shalin H. Naik
+  publisher: Nature Immunology
+  date: '2020-10-19'
+  link: https://doi.org/grc8js
+  tags:
+  - Immunology
+  - scRNAseq
+  _cache: fe29c61ecbe486caf0192473e6dedb58d602d82c17dd6eb4cb819457c6d7c688
+- id: 10.1038/s41592-019-0425-8
+  title: Benchmarking single cell RNA-sequencing analysis pipelines using mixture
+    control experiments
+  authors:
+  - Luyi Tian
+  - Xueyi Dong
+  - Saskia Freytag
+  - "Kim-Anh L\xEA Cao"
+  - Shian Su
+  - Abolfazl JalalAbadi
+  - Daniela Amann-Zalcenstein
+  - Tom S. Weber
+  - Azadeh Seidi
+  - Jafar S. Jabbari
+  - Shalin H. Naik
+  - Matthew E. Ritchie
+  publisher: Nature Methods
+  date: '2019-05-27'
+  link: https://doi.org/gf3jhp
+  repo: LuyiTian/sc_mixology
+  tags:
+  - scRNAseq
+  - Benchmarking
+  _cache: 90de0958941e558cf1bbc5668abb65951d03256e23f66b499f5e60ad8daf5017
+- id: 10.1371/journal.pcbi.1006361
+  title: 'scPipe: A flexible R/Bioconductor preprocessing pipeline for single-cell
+    RNA-sequencing data'
+  authors:
+  - Luyi Tian
+  - Shian Su
+  - Xueyi Dong
+  - Daniela Amann-Zalcenstein
+  - Christine Biben
+  - Azadeh Seidi
+  - Douglas J. Hilton
+  - Shalin H. Naik
+  - Matthew E. Ritchie
+  publisher: PLOS Computational Biology
+  date: '2018-08-10'
+  link: https://doi.org/gd3cr4
+  repo: LuyiTian/scPipe
+  extra-links:
+  - type: Package
+    link: https://www.bioconductor.org/packages/release/bioc/html/scPipe.html
+  tags:
+  - scRNAseq
+  - Preprocessing
+  - Bioconductor
+  _cache: 17dc2cf3bcf09d83e850e1dcebbcc50d8faa55f981836118875cdb00475cee42
