@@ -1,5 +1,4 @@
 - id: 10.1182/blood.2022016040
-  date: 2022-11-17
   extra-links:
     - type: Blood
       link: https://doi.org/10.1182/blood.2022016040
@@ -8,7 +7,6 @@
     - Nanopore sequencing
 
 - id: 10.1038/s41587-022-01448-2
-  date: 2022-11-17
   extra-links:
     - type: Nature Biotechnology
       link: https://www.nature.com/articles/s41587-022-01448-2
