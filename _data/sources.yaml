@@ -13,3 +13,41 @@
   tags:
     - Review
     - Spatial transcriptomics
+
+- id: 10.1038/s41392-021-00753-7
+  tags:
+    - SARS-CoV-2
+    - scRNAseq
+
+- id: 10.1186/s13059-021-02525-6
+  repo: LuyiTian/FLAMES
+  tags:
+    - Nanopore sequencing
+    - Alternative splicing
+
+- id: 10.1016/j.immuni.2021.03.012
+  tags:
+    - Immunology
+    - scRNAseq
+    - Lineage tracing
+
+- id: 10.1038/s41590-020-0799-x
+  tags:
+    - Immunology
+    - scRNAseq
+
+- id: 10.1038/s41592-019-0425-8
+  repo: LuyiTian/sc_mixology
+  tags:
+    - scRNAseq
+    - Benchmarking
+
+- id: 10.1371/journal.pcbi.1006361
+  repo: LuyiTian/scPipe
+  extra-links:
+    - type: Package
+      link: https://www.bioconductor.org/packages/release/bioc/html/scPipe.html
+  tags:
+    - scRNAseq
+    - Preprocessing
+    - Bioconductor
